@@ -1,0 +1,17 @@
+@import "reset.css";
+
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.2;
+    color: #000000;
+}
+
+.container{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1270px;
+    padding: 0 15px;
+}
